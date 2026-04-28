@@ -1,0 +1,13 @@
+gender,race,income,approved
+male,white,50000,1
+female,white,48000,0
+male,black,45000,0
+female,black,44000,0
+male,asian,60000,1
+female,asian,58000,1
+male,hispanic,47000,0
+female,hispanic,46000,0
+male,white,70000,1
+female,white,68000,1
+male,black,52000,1
+female,black,50000,0
